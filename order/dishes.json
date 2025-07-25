@@ -1,0 +1,3501 @@
+[
+  {
+    "id": 1,
+    "name": "Chettinad Chicken Pepper Soup",
+    "price": 110,
+    "description": "Traditional Chettinad-style chicken soup with a spicy black pepper kick.",
+    "category": "Soups",
+    "subCategory": "Chettinad Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 2,
+    "name": "Mutton Bone Soup",
+    "price": 130,
+    "description": "Rich and flavorful soup made from slow-cooked mutton bones, perfect for immunity.",
+    "category": "Soups",
+    "subCategory": "Chettinad Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 3,
+    "name": "Nattu Kozhi Soup",
+    "price": 120,
+    "description": "Country chicken soup prepared in authentic Chettinad spices for a bold taste.",
+    "category": "Soups",
+    "subCategory": "Chettinad Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 4,
+    "name": "Nandu Soup",
+    "price": 130,
+    "description": "Crab soup delicately spiced in Chettinad style for a unique coastal flavor.",
+    "category": "Soups",
+    "subCategory": "Chettinad Soups",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 5,
+    "name": "Sweet Corn Veg Soup",
+    "price": 120,
+    "description": "Classic sweet corn soup made with fresh vegetables in a light broth.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "veg"
+  },
+  {
+    "id": 6,
+    "name": "Sweet Corn Chicken Soup",
+    "price": 140,
+    "description": "Creamy chicken soup with sweet corn and mild spices.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 7,
+    "name": "Hot & Sour Veg Soup",
+    "price": 110,
+    "description": "Spicy and tangy vegetable soup with bold Chinese flavors.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "veg"
+  },
+  {
+    "id": 8,
+    "name": "Hot & Sour Chicken Soup",
+    "price": 130,
+    "description": "Chicken soup with a hot and sour base for a tangy spicy twist.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 9,
+    "name": "Hot & Sour Mutton Soup",
+    "price": 150,
+    "description": "Rich mutton soup cooked with spicy and sour Chinese seasoning.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 10,
+    "name": "Clear Veg Soup",
+    "price": 110,
+    "description": "Light and healthy clear soup with assorted fresh vegetables.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "veg"
+  },
+  {
+    "id": 11,
+    "name": "Clear Chicken Soup",
+    "price": 120,
+    "description": "Clear chicken soup simmered with herbs and vegetables.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 12,
+    "name": "Cream of Tomato Soup",
+    "price": 120,
+    "description": "Rich and creamy tomato soup with subtle spices.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "veg"
+  },
+  {
+    "id": 13,
+    "name": "Cream of Chicken Soup",
+    "price": 140,
+    "description": "Smooth and creamy chicken soup for a comforting treat.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 14,
+    "name": "Cream of Mushroom Soup",
+    "price": 120,
+    "description": "A velvety soup made with fresh mushrooms and cream.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "veg"
+  },
+  {
+    "id": 15,
+    "name": "Manchow Veg Soup",
+    "price": 120,
+    "description": "Spicy and garlicky veg soup served with crispy noodles.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "veg"
+  },
+  {
+    "id": 16,
+    "name": "Manchow Chicken Soup",
+    "price": 140,
+    "description": "Bold chicken soup flavored with soy, garlic, and chili, served with fried noodles.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 17,
+    "name": "Mushroom Pepper Soup",
+    "price": 110,
+    "description": "Mushroom soup spiced with black pepper for an earthy punch.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "veg"
+  },
+  {
+    "id": 18,
+    "name": "Lung Fung Soup",
+    "price": 150,
+    "description": "A rich Indo-Chinese soup with egg, chicken, and vegetables.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 19,
+    "name": "Chicken Pepper Soup",
+    "price": 120,
+    "description": "Peppery chicken soup, great for warming up and boosting immunity.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 20,
+    "name": "Noodles Veg Soup",
+    "price": 110,
+    "description": "Chinese-style veg soup with soft noodles and spices.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "veg"
+  },
+  {
+    "id": 21,
+    "name": "Noodles Chicken Soup",
+    "price": 130,
+    "description": "Chicken soup with noodles and oriental seasoning.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 22,
+    "name": "Noodles Mutton Soup",
+    "price": 150,
+    "description": "Hearty mutton soup served with noodles and spices.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 23,
+    "name": "Chicken Coriander Soup",
+    "price": 120,
+    "description": "Aromatic chicken soup infused with fresh coriander.",
+    "category": "Soups",
+    "subCategory": "Chinese Soups",
+    "type": "nonveg"
+  },
+  {
+    "id": 24,
+    "name": "Gobi 65",
+    "price": 160,
+    "description": "Deep-fried cauliflower florets tossed with Chettinad spices.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "veg"
+  },
+  {
+    "id": 25,
+    "name": "Mushroom 65",
+    "price": 160,
+    "description": "Crispy fried mushrooms seasoned with South Indian Chettinad masala.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "veg"
+  },
+  {
+    "id": 26,
+    "name": "Paneer 65",
+    "price": 180,
+    "description": "Soft paneer cubes marinated and fried in traditional Chettinad style.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "veg"
+  },
+  {
+    "id": 27,
+    "name": "Baby Corn 65",
+    "price": 160,
+    "description": "Crunchy baby corn fried with bold Chettinad flavors.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "veg"
+  },
+  {
+    "id": 28,
+    "name": "Carrot 65",
+    "price": 180,
+    "description": "Unique Chettinad-style starter made from crispy fried carrots.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "veg"
+  },
+  {
+    "id": 29,
+    "name": "Chicken 65 Boneless",
+    "price": 240,
+    "description": "Boneless chicken chunks marinated in fiery Chettinad masala and deep-fried.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 30,
+    "name": "Prawn 65",
+    "price": 280,
+    "description": "Juicy prawns coated in spiced batter and fried Chettinad-style.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 31,
+    "name": "Fish 65",
+    "price": 290,
+    "description": "Tender fish fillets marinated and fried with traditional Chettinad flavors.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 32,
+    "name": "Nethili Fry 65",
+    "price": 240,
+    "description": "Small anchovy fish deep-fried with signature Chettinad seasoning.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 33,
+    "name": "Vanjaram Fry Small",
+    "price": 250,
+    "description": "King fish slice (small) fried in a rich Chettinad marinade.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 34,
+    "name": "Vanjaram Fry Big",
+    "price": 350,
+    "description": "King fish slice (big) deep-fried with bold Chettinad spices.",
+    "category": "Starters",
+    "subCategory": "Chettinad Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 35,
+    "name": "French Fries",
+    "price": 100,
+    "description": "Classic deep-fried potato sticks served with ketchup or dip.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 36,
+    "name": "Crispy Potato",
+    "price": 160,
+    "description": "Thin potato strips fried until golden and tossed with mild spices.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 37,
+    "name": "Chilly Potato",
+    "price": 160,
+    "description": "Crispy potatoes tossed in a tangy and spicy Chinese-style chili sauce.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 38,
+    "name": "Kim Paneer",
+    "price": 250,
+    "description": "Stir-fried paneer cubes in Korean-style spicy sweet-sour sauce.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 39,
+    "name": "Dragon Baby Corn",
+    "price": 190,
+    "description": "Baby corn tossed in spicy dragon sauce with Chinese herbs.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 40,
+    "name": "Golden Mushroom Fry",
+    "price": 170,
+    "description": "Crispy fried mushrooms in a golden batter, served with dip.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 41,
+    "name": "Dragon Potato",
+    "price": 160,
+    "description": "Fried potato fingers tossed in hot dragon sauce with spring onions.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 42,
+    "name": "Baby Corn Salt & Pepper",
+    "price": 180,
+    "description": "Fried baby corn tossed in salt, crushed pepper, and Chinese spices.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 43,
+    "name": "Mushroom Salt & Pepper",
+    "price": 180,
+    "description": "Crispy mushrooms sautéed with salt, pepper, and bell peppers.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 44,
+    "name": "Golden Fry Baby Corn",
+    "price": 180,
+    "description": "Golden fried baby corn served with sweet and spicy dipping sauce.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  {
+    "id": 45,
+    "name": "Paneer Salt & Pepper",
+    "price": 200,
+    "description": "Crispy paneer cubes tossed in a flavorful mix of salt and crushed pepper.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "veg"
+  },
+  
+  {
+    "id": 46,
+    "name": "Chicken Lollypop",
+    "price": 260,
+    "description": "Juicy chicken wings shaped like lollypops, deep-fried and served with spicy sauce.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 47,
+    "name": "Fire Pouring Chicken",
+    "price": 260,
+    "description": "Fiery hot chicken tossed in spicy sauce with chili flakes and garlic.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 48,
+    "name": "Lemon Chicken",
+    "price": 230,
+    "description": "Tender chicken pieces cooked in a zesty lemon-infused sauce.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 49,
+    "name": "Pepper Wings",
+    "price": 280,
+    "description": "Crispy chicken wings tossed in cracked black pepper and herbs.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 50,
+    "name": "Lollypop Manchurian",
+    "price": 280,
+    "description": "Chicken lollypops coated in flavorful Manchurian sauce.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 51,
+    "name": "Creamy Chicken",
+    "price": 280,
+    "description": "Boneless chicken tossed in a rich creamy white sauce with herbs.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 52,
+    "name": "Dragon Chicken",
+    "price": 260,
+    "description": "Crispy chicken tossed in hot & tangy dragon-style sauce with capsicum.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 53,
+    "name": "Green Pepper Chicken",
+    "price": 240,
+    "description": "Stir-fried chicken with green pepper, garlic, and spring onions.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 54,
+    "name": "Chicken Salt & Pepper",
+    "price": 250,
+    "description": "Fried chicken cubes tossed in salt, pepper, and a hint of soy.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 55,
+    "name": "Crispy Chicken",
+    "price": 260,
+    "description": "Deep-fried crispy chicken served with tangy dip.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 56,
+    "name": "Mexican Lollypop",
+    "price": 280,
+    "description": "Spicy chicken lollypops with a bold Mexican flavor twist.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 57,
+    "name": "Honey Wings",
+    "price": 290,
+    "description": "Chicken wings glazed with a sweet and sticky honey sauce.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 58,
+    "name": "Pepper Chicken Leg (3 Pcs)",
+    "price": 300,
+    "description": "Three spicy chicken legs coated in a peppery masala blend.",
+    "category": "Starters",
+    "subCategory": "Chinese Specials",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 59,
+    "name": "Fish Finger",
+    "price": 240,
+    "description": "Crispy fried fish fillets served with a zesty dip.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 60,
+    "name": "Crab Lollypop",
+    "price": 260,
+    "description": "Tender crab meat shaped like lollypops and deep fried with spices.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 61,
+    "name": "Fish Salt & Pepper",
+    "price": 290,
+    "description": "Crispy fish cubes tossed with salt, pepper, and herbs.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 62,
+    "name": "Golden Fried Prawns",
+    "price": 300,
+    "description": "Prawns coated in golden batter and fried till crisp.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 63,
+    "name": "Prawn Salt & Pepper",
+    "price": 300,
+    "description": "Juicy prawns tossed in salt, pepper, and garlic seasoning.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 64,
+    "name": "Prawn Manchurian Dry",
+    "price": 300,
+    "description": "Prawns stir-fried with tangy Manchurian sauce.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 65,
+    "name": "Prawn Manchurian Gravy",
+    "price": 300,
+    "description": "Prawns cooked in rich Manchurian gravy with garlic and soy.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 66,
+    "name": "Chilly Prawns Dry",
+    "price": 290,
+    "description": "Spicy and crispy prawns tossed with green chilies and onion.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 67,
+    "name": "Chilly Prawns Gravy",
+    "price": 300,
+    "description": "Hot and spicy prawns simmered in thick chili gravy.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 68,
+    "name": "Garlic Fish Dry",
+    "price": 290,
+    "description": "Dry-fried fish fillets sautéed with garlic and spices.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 69,
+    "name": "Garlic Fish Gravy",
+    "price": 300,
+    "description": "Fish cooked in garlic-infused gravy with a hint of spice.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 70,
+    "name": "Ginger Fish Dry",
+    "price": 290,
+    "description": "Dry style fish cooked with fresh ginger and herbs.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 71,
+    "name": "Ginger Fish Gravy",
+    "price": 300,
+    "description": "Fish simmered in spicy ginger-flavored gravy.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 72,
+    "name": "Ginger Prawn Dry",
+    "price": 290,
+    "description": "Prawns cooked dry with a kick of ginger and spring onions.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 73,
+    "name": "Ginger Prawn Gravy",
+    "price": 300,
+    "description": "Prawns cooked in a mildly spiced ginger-flavored gravy.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 74,
+    "name": "Garlic Prawn Dry",
+    "price": 290,
+    "description": "Prawns tossed in aromatic garlic with a dry finish.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 75,
+    "name": "Garlic Prawn Gravy",
+    "price": 300,
+    "description": "Juicy prawns cooked in a thick garlic-based gravy.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 76,
+    "name": "Chilly Fish Dry",
+    "price": 280,
+    "description": "Fried fish pieces tossed in spicy chili sauce (dry style).",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 77,
+    "name": "Chilly Fish Gravy",
+    "price": 290,
+    "description": "Fish cooked in bold and spicy chili gravy.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 78,
+    "name": "Fish Manchurian Dry",
+    "price": 280,
+    "description": "Fish fillets tossed in Manchurian sauce (dry version).",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 79,
+    "name": "Fish Manchurian Gravy",
+    "price": 290,
+    "description": "Fish cooked in a rich, savory Manchurian gravy.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 80,
+    "name": "Squid Pepper Fry",
+    "price": 300,
+    "description": "Tender squid rings fried and tossed in black pepper masala.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+  {
+    "id": 81,
+    "name": "Butter Garlic Prawn",
+    "price": 300,
+    "description": "Prawns cooked in buttery garlic sauce with a mild spice kick.",
+    "category": "Starters",
+    "subCategory": "Sea Food Specials",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 82,
+    "name": "Chilly Paneer Dry",
+    "price": 220,
+    "description": "Crispy paneer cubes tossed in spicy chili sauce with onions and capsicum.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 83,
+    "name": "Chilly Paneer Gravy",
+    "price": 230,
+    "description": "Soft paneer pieces cooked in thick and spicy chili gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 84,
+    "name": "Chilly Gobi Dry",
+    "price": 180,
+    "description": "Fried cauliflower tossed in hot and tangy chili sauce.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 85,
+    "name": "Chilly Gobi Gravy",
+    "price": 190,
+    "description": "Cauliflower florets cooked in spicy chili garlic gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 86,
+    "name": "Chilly Mushroom Dry",
+    "price": 190,
+    "description": "Mushrooms sautéed with chilies, onions, and peppers.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 87,
+    "name": "Chilly Mushroom Gravy",
+    "price": 200,
+    "description": "Mushrooms cooked in flavorful chili gravy with garlic.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 88,
+    "name": "Chilly Baby Corn Dry",
+    "price": 180,
+    "description": "Baby corn stir-fried in spicy chili sauce with crunchy veggies.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 89,
+    "name": "Chilly Baby Corn Gravy",
+    "price": 190,
+    "description": "Baby corn cooked in rich and spicy gravy with chili flavors.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 90,
+    "name": "Baby Corn Manchurian Dry",
+    "price": 180,
+    "description": "Fried baby corn tossed in Manchurian sauce with herbs.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 91,
+    "name": "Baby Corn Manchurian Gravy",
+    "price": 190,
+    "description": "Baby corn simmered in rich Manchurian gravy with garlic and spring onion.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 92,
+    "name": "Paneer Manchurian Dry",
+    "price": 200,
+    "description": "Paneer cubes stir-fried in signature Manchurian sauce.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 93,
+    "name": "Paneer Manchurian Gravy",
+    "price": 210,
+    "description": "Paneer cooked in delicious Manchurian-style gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 94,
+    "name": "Mushroom Manchurian Dry",
+    "price": 180,
+    "description": "Crispy mushroom pieces tossed in Manchurian sauce.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 95,
+    "name": "Mushroom Manchurian Gravy",
+    "price": 190,
+    "description": "Mushroom chunks cooked in thick Manchurian gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 96,
+    "name": "Gobi Manchurian Dry",
+    "price": 180,
+    "description": "Fried gobi florets in Manchurian sauce with a spicy kick.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 97,
+    "name": "Gobi Manchurian Gravy",
+    "price": 190,
+    "description": "Cauliflower cooked in spicy and flavorful Manchurian gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 98,
+    "name": "Veg Ball Manchurian Dry",
+    "price": 200,
+    "description": "Fried vegetable balls tossed in dry Manchurian sauce.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+  {
+    "id": 99,
+    "name": "Veg Ball Manchurian Gravy",
+    "price": 210,
+    "description": "Veg balls simmered in a savory and spicy Manchurian gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Veg",
+    "type": "veg"
+  },
+
+  {
+    "id": 100,
+    "name": "Chilly Chicken Dry",
+    "price": 210,
+    "description": "Boneless chicken chunks tossed in spicy and tangy chili sauce.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 101,
+    "name": "Chilly Chicken Gravy",
+    "price": 220,
+    "description": "Juicy chicken cooked in thick and spicy chili gravy with garlic and capsicum.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 102,
+    "name": "Chicken Ball Manchurian Dry",
+    "price": 260,
+    "description": "Crispy chicken balls stir-fried in Manchurian sauce.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 103,
+    "name": "Chicken Ball Manchurian Gravy",
+    "price": 280,
+    "description": "Tender chicken balls cooked in flavorful Manchurian gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 104,
+    "name": "Chicken Manchurian Dry",
+    "price": 220,
+    "description": "Fried chicken tossed with classic Manchurian flavors and vegetables.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 105,
+    "name": "Chicken Manchurian Gravy",
+    "price": 240,
+    "description": "Boneless chicken in rich Manchurian gravy with herbs and spices.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 106,
+    "name": "Ginger Chicken Dry",
+    "price": 240,
+    "description": "Stir-fried chicken with sharp ginger flavor and vegetables.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 107,
+    "name": "Ginger Chicken Gravy",
+    "price": 250,
+    "description": "Juicy chicken pieces in a rich ginger-based gravy with spices.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 108,
+    "name": "Garlic Chicken Dry",
+    "price": 240,
+    "description": "Garlic-flavored chicken stir-fried with onions and bell peppers.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 109,
+    "name": "Garlic Chicken Gravy",
+    "price": 260,
+    "description": "Tender chicken cooked in savory garlic gravy with aromatic herbs.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 110,
+    "name": "Honey Chilly Chicken Dry",
+    "price": 230,
+    "description": "Crispy chicken glazed with sweet honey and spicy chili sauce.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 111,
+    "name": "Honey Chilly Chicken Gravy",
+    "price": 250,
+    "description": "Chicken cooked in a delicious balance of honey and chili-infused gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 112,
+    "name": "Black Pepper Chicken Dry",
+    "price": 250,
+    "description": "Spicy dry chicken cooked with freshly ground black pepper.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 113,
+    "name": "Black Pepper Chicken Gravy",
+    "price": 260,
+    "description": "Chicken in a bold black pepper-based gravy with aromatic herbs.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 114,
+    "name": "Schezwan Chicken Dry",
+    "price": 230,
+    "description": "Dry chicken dish infused with fiery Schezwan flavors and chilies.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 115,
+    "name": "Schezwan Chicken Gravy",
+    "price": 240,
+    "description": "Chicken cooked in spicy Schezwan gravy with oriental spices.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 116,
+    "name": "Chicken Butter Garlic Dry",
+    "price": 250,
+    "description": "Pan-fried chicken flavored with rich butter and garlic.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+  {
+    "id": 117,
+    "name": "Chicken Butter Garlic Gravy",
+    "price": 260,
+    "description": "Butter garlic chicken in creamy, savory Chinese-style gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy NonVeg",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 118,
+    "name": "Chilly Lamb Dry",
+    "price": 330,
+    "description": "Spicy stir-fried lamb tossed with green chilies and aromatic sauces.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Lamb",
+    "type": "nonveg"
+  },
+  {
+    "id": 119,
+    "name": "Chilly Lamb Gravy",
+    "price": 340,
+    "description": "Tender lamb cooked in rich and spicy chili-based gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Lamb",
+    "type": "nonveg"
+  },
+  {
+    "id": 120,
+    "name": "Lamb Manchurian Dry",
+    "price": 320,
+    "description": "Crispy lamb pieces sautéed with Manchurian sauce and herbs.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Lamb",
+    "type": "nonveg"
+  },
+  {
+    "id": 121,
+    "name": "Lamb Manchurian Gravy",
+    "price": 340,
+    "description": "Juicy lamb chunks in a tangy and flavorful Manchurian gravy.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Lamb",
+    "type": "nonveg"
+  },
+  {
+    "id": 122,
+    "name": "Salt & Pepper Lamb",
+    "price": 320,
+    "description": "Lamb seasoned with black pepper and salt, stir-fried to perfection.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Lamb",
+    "type": "nonveg"
+  },
+  {
+    "id": 123,
+    "name": "Crispy Lamb Honey",
+    "price": 330,
+    "description": "Crispy fried lamb glazed with a sweet and sticky honey sauce.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Lamb",
+    "type": "nonveg"
+  },
+  {
+    "id": 124,
+    "name": "Crispy Lamb",
+    "price": 320,
+    "description": "Deep-fried lamb strips with a crunchy texture and mild seasoning.",
+    "category": "Chinese Specials",
+    "subCategory": "Dry & Gravy Lamb",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 125,
+    "name": "Omelette",
+    "price": 50,
+    "description": "Classic plain egg omelette, lightly seasoned and pan-cooked.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 126,
+    "name": "Podimas",
+    "price": 50,
+    "description": "Scrambled egg dish with onions, spices, and South Indian flavors.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 127,
+    "name": "Half Boiled",
+    "price": 20,
+    "description": "Soft-cooked eggs with a semi-liquid yolk, lightly peppered.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 128,
+    "name": "Full Boiled",
+    "price": 20,
+    "description": "Perfectly boiled eggs with a fully set yolk.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 129,
+    "name": "Boiled Egg",
+    "price": 40,
+    "description": "Double egg boiled and served plain or with light seasoning.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 130,
+    "name": "Egg Curry",
+    "price": 150,
+    "description": "Boiled eggs simmered in spicy and tangy curry gravy.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 131,
+    "name": "Egg Masala",
+    "price": 160,
+    "description": "Boiled eggs cooked in a thick and flavorful masala gravy.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 132,
+    "name": "Chilly Egg",
+    "price": 180,
+    "description": "Eggs stir-fried with chilies, capsicum, and spicy sauce.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 133,
+    "name": "Egg Fry",
+    "price": 130,
+    "description": "Pan-fried eggs with traditional Indian seasoning.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 134,
+    "name": "Masala Omelette",
+    "price": 80,
+    "description": "Spiced omelette with chopped onions, chilies, and herbs.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 135,
+    "name": "Chicken Omelette",
+    "price": 180,
+    "description": "Fluffy egg omelette stuffed with spiced shredded chicken.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+  {
+    "id": 136,
+    "name": "Mutton Omelette",
+    "price": 220,
+    "description": "Egg omelette filled with flavorful minced mutton.",
+    "category": "Egg Specials",
+    "subCategory": "Egg",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 137,
+    "name": "Paneer Tikka",
+    "price": 240,
+    "description": "Chunks of paneer marinated in spices and grilled in a tandoor.",
+    "category": "Tikka Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 138,
+    "name": "Paneer Hariyali Tikka",
+    "price": 250,
+    "description": "Paneer cubes marinated in green herbs and spices, then grilled.",
+    "category": "Tikka Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 139,
+    "name": "Paneer Malai Tikka",
+    "price": 280,
+    "description": "Creamy paneer tikka marinated in mild malai-based marinade.",
+    "category": "Tikka Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 140,
+    "name": "Gobi Tikka",
+    "price": 220,
+    "description": "Cauliflower florets marinated and grilled to perfection.",
+    "category": "Tikka Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 141,
+    "name": "Mushroom Tikka",
+    "price": 220,
+    "description": "Juicy mushrooms marinated in tikka spices and tandoor-grilled.",
+    "category": "Tikka Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 142,
+    "name": "Tandoori Chicken (Half)",
+    "price": 260,
+    "description": "Half portion of chicken marinated with spices and grilled in tandoor.",
+    "category": "Tikka Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 143,
+    "name": "Tandoori Chicken (Full)",
+    "price": 490,
+    "description": "Full portion of tandoori chicken cooked in traditional style.",
+    "category": "Tikka Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 144,
+    "name": "Chicken Tikka",
+    "price": 240,
+    "description": "Boneless chicken chunks marinated in tikka masala and grilled.",
+    "category": "Tikka Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 145,
+    "name": "Fish Tikka",
+    "price": 280,
+    "description": "Succulent pieces of fish grilled with spicy tikka marinade.",
+    "category": "Tikka Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 146,
+    "name": "Achari Chicken Tikka",
+    "price": 260,
+    "description": "Chicken tikka infused with tangy achari (pickle) flavors.",
+    "category": "Tikka Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 147,
+    "name": "Chicken Peri Tikka",
+    "price": 300,
+    "description": "Spicy Peri-Peri flavored chicken tikka grilled to perfection.",
+    "category": "Tikka Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 148,
+    "name": "Dil-Kush Kebab",
+    "price": 320,
+    "description": "Juicy kebabs packed with flavorful minced meat and aromatic spices.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 149,
+    "name": "Kali Mirchi Kebab",
+    "price": 240,
+    "description": "Spicy black pepper-flavored chicken kebabs grilled to perfection.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 150,
+    "name": "Chicken Garlic Kebab",
+    "price": 240,
+    "description": "Succulent chicken pieces marinated with garlic and grilled.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 151,
+    "name": "Chicken Chilli Kebab",
+    "price": 250,
+    "description": "Spicy kebabs made with chili marinated chicken.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 152,
+    "name": "Paneer Malai Sheek",
+    "price": 280,
+    "description": "Creamy paneer sheek kebabs with a soft melt-in-mouth texture.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "veg"
+  },
+  {
+    "id": 153,
+    "name": "Chicken Reshmi Kebab",
+    "price": 300,
+    "description": "Delicate and creamy chicken kebabs marinated in yogurt and spices.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 154,
+    "name": "Murug Malai Kebab",
+    "price": 260,
+    "description": "Creamy and mildly spiced chicken kebabs with rich texture.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 155,
+    "name": "Kalmi Kebab",
+    "price": 300,
+    "description": "Chicken leg pieces marinated in yogurt-based spices and grilled.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 156,
+    "name": "Tangdi Kebab",
+    "price": 300,
+    "description": "Juicy and flavorful chicken drumsticks cooked in tandoor.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 157,
+    "name": "Chicken Sheek Kebab",
+    "price": 350,
+    "description": "Minced chicken kebabs skewered and grilled to smoky perfection.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 158,
+    "name": "Mutton Sheek Kebab",
+    "price": 450,
+    "description": "Spiced minced mutton skewered and grilled in traditional style.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "nonveg"
+  },
+  {
+    "id": 159,
+    "name": "Veg Sheek Kebab",
+    "price": 280,
+    "description": "Mixed vegetable kebabs shaped on skewers and grilled.",
+    "category": "Kebab Specials",
+    "subCategory": "Kebab",
+    "type": "veg"
+  },
+
+  {
+    "id": 160,
+    "name": "Tandoori Platter",
+    "price": 499,
+    "description": "A veg feast including Gobi Tikka, Aloo Tikka, Tandoori Babycorn, Tandoori Mushroom, Harabhara Kebab, Veg Sheek Kebab, Paneer Malai Sheek, served with Roti or Naan.",
+    "category": "Platter Specials",
+    "subCategory": "Veg Platter",
+    "type": "veg"
+  },
+  {
+    "id": 161,
+    "name": "Non Veg Platter (3 Pcs)",
+    "price": 899,
+    "description": "A rich combo of Chicken Tikka, Murgh Malai Tikka, Hariyali Kebab, Tangdi Kebab (1 Pc), Tandoori Quarter, Chicken Spicy Sheek, Reshmi Chicken, served with Roti or Naan.",
+    "category": "Platter Specials",
+    "subCategory": "Non Veg Platter",
+    "type": "nonveg"
+  },
+  {
+    "id": 162,
+    "name": "Sea Food Platter",
+    "price": 1499,
+    "description": "A seafood lover’s delight with Tandoori Fish, BBQ Fish, Prawn Manchurian, Nethily Fry, Fish Hariyali Tikka, Squid Pepper Fry, Crab Fry, Fish 65, Butter Garlic Prawns, and Prawn 65.",
+    "category": "Platter Specials",
+    "subCategory": "Seafood Platter",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 163,
+    "name": "BBQ Chicken (Half)",
+    "price": 250,
+    "description": "Half portion of classic barbeque grilled chicken, tender and smoky.",
+    "category": "Barbeque Specials",
+    "subCategory": "Barbeque",
+    "type": "nonveg"
+  },
+  {
+    "id": 164,
+    "name": "BBQ Chicken (Full)",
+    "price": 450,
+    "description": "Full portion of classic barbeque grilled chicken, rich in flavor and perfectly cooked.",
+    "category": "Barbeque Specials",
+    "subCategory": "Barbeque",
+    "type": "nonveg"
+  },
+  {
+    "id": 165,
+    "name": "Pepper BBQ (Half)",
+    "price": 260,
+    "description": "Half portion of BBQ chicken seasoned with bold black pepper spices.",
+    "category": "Barbeque Specials",
+    "subCategory": "Barbeque",
+    "type": "nonveg"
+  },
+  {
+    "id": 166,
+    "name": "Pepper BBQ (Full)",
+    "price": 480,
+    "description": "Full portion of BBQ chicken infused with spicy black pepper seasoning.",
+    "category": "Barbeque Specials",
+    "subCategory": "Barbeque",
+    "type": "nonveg"
+  },
+  {
+    "id": 167,
+    "name": "Mexican BBQ (Half)",
+    "price": 270,
+    "description": "Half portion of BBQ chicken with zesty Mexican-style spices and herbs.",
+    "category": "Barbeque Specials",
+    "subCategory": "Barbeque",
+    "type": "nonveg"
+  },
+  {
+    "id": 168,
+    "name": "Mexican BBQ (Full)",
+    "price": 490,
+    "description": "Full portion of Mexican BBQ chicken, spicy and grilled to perfection.",
+    "category": "Barbeque Specials",
+    "subCategory": "Barbeque",
+    "type": "nonveg"
+  },
+  {
+    "id": 169,
+    "name": "Alfaham Chicken (Half)",
+    "price": 270,
+    "description": "Half portion of Arabian-style Alfaham grilled chicken with aromatic spices.",
+    "category": "Barbeque Specials",
+    "subCategory": "Barbeque",
+    "type": "nonveg"
+  },
+  {
+    "id": 170,
+    "name": "Alfaham Chicken (Full)",
+    "price": 490,
+    "description": "Full portion of juicy Alfaham chicken, grilled and marinated Middle-Eastern style.",
+    "category": "Barbeque Specials",
+    "subCategory": "Barbeque",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 171,
+    "name": "Chicken Mugal Biriyani",
+    "price": 250,
+    "description": "Flavorful Mughlai-style chicken biriyani slow-cooked with spices and basmati rice.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 172,
+    "name": "Chicken Biriyani",
+    "price": 200,
+    "description": "Traditional chicken biriyani with aromatic spices and tender chicken pieces.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 173,
+    "name": "Mutton Biriyani",
+    "price": 320,
+    "description": "Rich and spicy mutton biriyani with slow-cooked goat meat and fragrant rice.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 174,
+    "name": "Prawn Biriyani",
+    "price": 260,
+    "description": "Delicious biriyani cooked with marinated prawns and traditional masalas.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 175,
+    "name": "Chicken 65 Biriyani",
+    "price": 250,
+    "description": "Spicy Chicken 65 pieces layered with fragrant biriyani rice.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 176,
+    "name": "Egg Biriyani",
+    "price": 160,
+    "description": "Biriyani made with boiled eggs, layered with spiced rice and herbs.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 177,
+    "name": "Mutton Chukka Biriyani",
+    "price": 330,
+    "description": "Aromatic biriyani with spicy mutton chukka chunks and traditional masala.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 178,
+    "name": "Plain Biriyani",
+    "price": 140,
+    "description": "Aromatic basmati rice cooked with biriyani spices, no meat or egg.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "veg"
+  },
+  {
+    "id": 179,
+    "name": "Chettinad Chicken Biriyani",
+    "price": 210,
+    "description": "South Indian style spicy biriyani with chicken and Chettinad masalas.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 180,
+    "name": "Chettinad Mutton Biriyani",
+    "price": 340,
+    "description": "Authentic Chettinad biriyani with juicy mutton and bold flavors.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 181,
+    "name": "Chettinad Prawn Biriyani",
+    "price": 270,
+    "description": "Chettinad-style biriyani infused with aromatic prawns and spices.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+  {
+    "id": 182,
+    "name": "Mutton Mugal Biriyani",
+    "price": 350,
+    "description": "Royal Mughlai-style biriyani made with tender mutton and rich gravy.",
+    "category": "Biriyani Specials",
+    "subCategory": "Biriyanis",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 183,
+    "name": "Veg Fried Rice",
+    "price": 130,
+    "description": "Simple and flavorful fried rice with assorted vegetables.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 184,
+    "name": "Veg Schezwan Fried Rice",
+    "price": 140,
+    "description": "Spicy Schezwan-style fried rice with fresh vegetables.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 185,
+    "name": "Paneer Fried Rice",
+    "price": 160,
+    "description": "Fried rice tossed with soft paneer cubes and spices.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 186,
+    "name": "Paneer Schezwan Fried Rice",
+    "price": 170,
+    "description": "Paneer fried rice with fiery Schezwan twist.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 187,
+    "name": "Mushroom Fried Rice",
+    "price": 150,
+    "description": "Aromatic fried rice with sautéed mushrooms.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 188,
+    "name": "Mushroom Schezwan Fried Rice",
+    "price": 160,
+    "description": "Schezwan mushroom fried rice with bold flavors.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 189,
+    "name": "Gobi Fried Rice",
+    "price": 150,
+    "description": "Cauliflower fried rice with herbs and spices.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 190,
+    "name": "Gobi Schezwan Fried Rice",
+    "price": 160,
+    "description": "Cauliflower fried rice in Schezwan style.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 191,
+    "name": "Singapore Veg Fried Rice",
+    "price": 170,
+    "description": "Flavorful Singapore-style vegetarian fried rice.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 192,
+    "name": "Mixed Veg Fried Rice",
+    "price": 180,
+    "description": "Vegetable medley fried rice with rich flavors.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 193,
+    "name": "Mixed Veg Schezwan Fried Rice",
+    "price": 190,
+    "description": "Schezwan fried rice with assorted vegetables.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 194,
+    "name": "Garlic Fried Rice",
+    "price": 150,
+    "description": "Garlic-infused fried rice with a mild aroma.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 195,
+    "name": "Chilli Garlic Fried Rice",
+    "price": 160,
+    "description": "Spicy fried rice with a punch of garlic and chilli.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 196,
+    "name": "Jeera Rice",
+    "price": 150,
+    "description": "Basmati rice tempered with cumin seeds.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 197,
+    "name": "Ghee Rice",
+    "price": 180,
+    "description": "Aromatic rice tossed in pure ghee and mild spices.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 198,
+    "name": "Steam Rice",
+    "price": 120,
+    "description": "Plain steamed rice, perfect with gravies.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 199,
+    "name": "Chicken Fried Rice",
+    "price": 170,
+    "description": "Classic fried rice with tender chicken pieces.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 200,
+    "name": "Chicken Schezwan Fried Rice",
+    "price": 180,
+    "description": "Spicy Schezwan-style chicken fried rice.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 201,
+    "name": "Mutton Fried Rice",
+    "price": 230,
+    "description": "Rich mutton chunks stir-fried with rice and spices.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 202,
+    "name": "Mutton Schezwan Fried Rice",
+    "price": 240,
+    "description": "Schezwan fried rice with spicy mutton pieces.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 203,
+    "name": "Egg Fried Rice",
+    "price": 140,
+    "description": "Fried rice tossed with scrambled eggs.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 204,
+    "name": "Egg Schezwan Fried Rice",
+    "price": 150,
+    "description": "Egg fried rice with a spicy Schezwan kick.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 205,
+    "name": "Chicken Singapore Fried Rice",
+    "price": 180,
+    "description": "Singapore-style chicken fried rice with bold spices.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 206,
+    "name": "Prawn Fried Rice",
+    "price": 200,
+    "description": "Prawns tossed with basmati rice and sauces.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 207,
+    "name": "Prawn Schezwan Fried Rice",
+    "price": 210,
+    "description": "Prawns in spicy Schezwan-style fried rice.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 208,
+    "name": "Mixed Non Veg Fried Rice",
+    "price": 240,
+    "description": "Fried rice with egg, chicken, and mutton.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 209,
+    "name": "Mixed Non Veg Schezwan Fried Rice",
+    "price": 250,
+    "description": "Schezwan-style mixed fried rice with egg, chicken, and mutton.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 210,
+    "name": "Triple Chicken Fried Rice",
+    "price": 260,
+    "description": "Triple style chicken fried rice for meat lovers.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 211,
+    "name": "Triple Chicken Schezwan Fried Rice",
+    "price": 280,
+    "description": "Triple chicken fried rice with Schezwan spices.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 212,
+    "name": "Thai Chicken Pataya Fried Rice",
+    "price": 190,
+    "description": "Thai-style chicken fried rice with Pataya flavors.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 213,
+    "name": "Thai Chicken Pataya Schezwan Fried Rice",
+    "price": 200,
+    "description": "Thai Pataya chicken fried rice with Schezwan twist.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 214,
+    "name": "Sea Food Fried Rice",
+    "price": 250,
+    "description": "Fried rice with fish, prawn, and squid.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 215,
+    "name": "Sea Food Schezwan Fried Rice",
+    "price": 260,
+    "description": "Schezwan fried rice with seafood trio: fish, prawn, squid.",
+    "category": "Fried Rice Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 216,
+    "name": "Veg Noodles",
+    "price": 130,
+    "description": "Classic stir-fried noodles with fresh vegetables.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 217,
+    "name": "Veg Schezwan Noodles",
+    "price": 140,
+    "description": "Spicy Schezwan-style noodles with vegetables.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 218,
+    "name": "Paneer Noodles",
+    "price": 160,
+    "description": "Noodles tossed with soft paneer cubes.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 219,
+    "name": "Paneer Schezwan Noodles",
+    "price": 170,
+    "description": "Schezwan-style noodles with spicy paneer chunks.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 220,
+    "name": "Mushroom Noodles",
+    "price": 150,
+    "description": "Noodles cooked with juicy mushrooms and spices.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 221,
+    "name": "Mushroom Schezwan Noodles",
+    "price": 160,
+    "description": "Spicy mushroom noodles in Schezwan sauce.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 222,
+    "name": "Gobi Noodles",
+    "price": 150,
+    "description": "Noodles tossed with crispy cauliflower.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 223,
+    "name": "Gobi Schezwan Noodles",
+    "price": 160,
+    "description": "Schezwan noodles with crunchy gobi.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 224,
+    "name": "Singapore Veg Noodles",
+    "price": 160,
+    "description": "Singapore-style spicy noodles with veggies.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 225,
+    "name": "Mixed Veg Noodles",
+    "price": 180,
+    "description": "Mixed vegetable noodles with bold flavors.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 226,
+    "name": "Mixed Veg Schezwan Noodles",
+    "price": 190,
+    "description": "Spicy mixed veg noodles with Schezwan sauce.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 227,
+    "name": "Chinese Veg Chop Suey",
+    "price": 220,
+    "description": "Crispy noodles topped with Chinese-style veg sauce.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 228,
+    "name": "American Veg Chop Suey",
+    "price": 220,
+    "description": "Fried noodles with sweet-spicy American chop suey sauce.",
+    "category": "Noodles Specials",
+    "subCategory": "Veg",
+    "type": "veg"
+  },
+  {
+    "id": 229,
+    "name": "Chicken Noodles",
+    "price": 170,
+    "description": "Noodles stir-fried with tender chicken.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 230,
+    "name": "Chicken Schezwan Noodles",
+    "price": 180,
+    "description": "Schezwan noodles tossed with spicy chicken.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 231,
+    "name": "Mutton Noodles",
+    "price": 230,
+    "description": "Noodles cooked with flavorful mutton pieces.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 232,
+    "name": "Mutton Schezwan Noodles",
+    "price": 240,
+    "description": "Schezwan noodles blended with tender mutton.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 233,
+    "name": "Egg Noodles",
+    "price": 140,
+    "description": "Noodles tossed with scrambled egg.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 234,
+    "name": "Egg Schezwan Noodles",
+    "price": 150,
+    "description": "Egg noodles with spicy Schezwan twist.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 235,
+    "name": "Chicken Singapore Noodles",
+    "price": 180,
+    "description": "Spicy Singapore-style noodles with chicken.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 236,
+    "name": "Prawn Noodles",
+    "price": 200,
+    "description": "Stir-fried noodles with juicy prawns.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 237,
+    "name": "Prawn Schezwan Noodles",
+    "price": 210,
+    "description": "Spicy Schezwan noodles cooked with prawns.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 238,
+    "name": "Mixed Non Veg Noodles",
+    "price": 230,
+    "description": "Noodles with egg, chicken, and mutton.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 239,
+    "name": "Mixed Non Veg Schezwan Noodles",
+    "price": 240,
+    "description": "Spicy Schezwan noodles with egg, chicken, mutton.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 240,
+    "name": "Chinese Chicken Chop Suey",
+    "price": 250,
+    "description": "Crispy noodles with Chinese-style chicken gravy.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 241,
+    "name": "American Chicken Chop Suey",
+    "price": 260,
+    "description": "Fried noodles topped with sweet-spicy chicken sauce.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 242,
+    "name": "Crispy Chicken Noodles",
+    "price": 200,
+    "description": "Crunchy noodles topped with chicken gravy.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 243,
+    "name": "Crispy Mutton Noodles",
+    "price": 220,
+    "description": "Crispy noodles with rich mutton curry topping.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 244,
+    "name": "Crispy Prawn Noodles",
+    "price": 240,
+    "description": "Fried noodles layered with prawn curry.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 245,
+    "name": "Crispy Mixed Noodles",
+    "price": 260,
+    "description": "Mixed meat curry over crunchy fried noodles.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 246,
+    "name": "Seafood Noodles",
+    "price": 260,
+    "description": "Seafood noodles with fish, prawn, and squid.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+  {
+    "id": 247,
+    "name": "Seafood Schezwan Noodles",
+    "price": 270,
+    "description": "Schezwan-style seafood noodles with fish, prawn, squid.",
+    "category": "Noodles Specials",
+    "subCategory": "Non Veg",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 248,
+    "name": "Parotta",
+    "price": 30,
+    "description": "Flaky and soft layered Indian flatbread, perfect with curries.",
+    "category": "Accompaniment Specials",
+    "subCategory": "Accompaniment's",
+    "type": "veg"
+  },
+  {
+    "id": 249,
+    "name": "Egg Kothu Parotta",
+    "price": 160,
+    "description": "Chopped parotta stir-fried with egg, onion, spices and salna.",
+    "category": "Accompaniment Specials",
+    "subCategory": "Accompaniment's",
+    "type": "nonveg"
+  },
+  {
+    "id": 250,
+    "name": "Chicken Kothu Parotta",
+    "price": 190,
+    "description": "Parotta shredded and tossed with chicken and flavorful masala.",
+    "category": "Accompaniment Specials",
+    "subCategory": "Accompaniment's",
+    "type": "nonveg"
+  },
+  {
+    "id": 251,
+    "name": "Mutton Kothu Parotta",
+    "price": 250,
+    "description": "Shredded parotta mixed with tender mutton and spicy gravy.",
+    "category": "Accompaniment Specials",
+    "subCategory": "Accompaniment's",
+    "type": "nonveg"
+  },
+  {
+    "id": 252,
+    "name": "Chilli Parotta",
+    "price": 190,
+    "description": "Spicy stir-fried parotta cubes tossed with onion, capsicum, and sauce.",
+    "category": "Accompaniment Specials",
+    "subCategory": "Accompaniment's",
+    "type": "veg"
+  },
+
+  {
+    "id": 253,
+    "name": "Prawn Thokku",
+    "price": 280,
+    "description": "A spicy and semi-dry prawn dish cooked in traditional Chettinad masala.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Fry",
+    "type": "nonveg"
+  },
+  {
+    "id": 254,
+    "name": "Chettinad Prawn Pepper Fry",
+    "price": 290,
+    "description": "Peppery Chettinad-style prawns stir-fried with onions and spices.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Fry",
+    "type": "nonveg"
+  },
+  {
+    "id": 255,
+    "name": "Kozhi Roast",
+    "price": 260,
+    "description": "Spicy Chettinad chicken roast made with aromatic ground spices.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Fry",
+    "type": "nonveg"
+  },
+  {
+    "id": 256,
+    "name": "Crab Fry",
+    "price": 270,
+    "description": "Tender crab pieces cooked in Chettinad style with bold spices.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Fry",
+    "type": "nonveg"
+  },
+  {
+    "id": 257,
+    "name": "Mutton Chukka",
+    "price": 320,
+    "description": "Dry-fried mutton cubes in Chettinad masala with curry leaves and pepper.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Fry",
+    "type": "nonveg"
+  },
+  {
+    "id": 258,
+    "name": "Mushroom Pepper Fry",
+    "price": 200,
+    "description": "Spicy pepper-coated mushrooms cooked Chettinad-style.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Fry",
+    "type": "veg"
+  },
+  {
+    "id": 259,
+    "name": "Panneer Pepper Fry",
+    "price": 250,
+    "description": "Crispy paneer cubes stir-fried with pepper and Chettinad spices.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Fry",
+    "type": "veg"
+  },
+
+  {
+    "id": 260,
+    "name": "Kadai Veg",
+    "price": 190,
+    "description": "Spicy mixed vegetables sautéed in kadai masala.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 261,
+    "name": "Aloo Gobi Masala",
+    "price": 200,
+    "description": "Potato and cauliflower cooked in onion-tomato masala.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 262,
+    "name": "Mushroom Masala",
+    "price": 190,
+    "description": "Mushrooms cooked in rich tomato-based masala.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 263,
+    "name": "Gobi Masala",
+    "price": 180,
+    "description": "Cauliflower curry in traditional Chettinad spices.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 264,
+    "name": "Panneer Butter Masala",
+    "price": 240,
+    "description": "Paneer in a creamy tomato and butter-rich curry.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 265,
+    "name": "Kadai Panneer",
+    "price": 250,
+    "description": "Paneer cubes cooked with bell peppers and kadai masala.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 266,
+    "name": "Panneer Tikka Masala",
+    "price": 260,
+    "description": "Tandoori paneer in a spiced creamy tomato sauce.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 267,
+    "name": "Malai Kofta",
+    "price": 280,
+    "description": "Soft kofta balls in rich, creamy white gravy.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 268,
+    "name": "Shaahi Panneer",
+    "price": 290,
+    "description": "Royal Mughlai-style paneer in a rich saffron gravy.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 269,
+    "name": "Kadai Mushroom",
+    "price": 200,
+    "description": "Mushrooms tossed in kadai spices with capsicum.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 270,
+    "name": "Mixed Makhani",
+    "price": 220,
+    "description": "Mixed vegetables in buttery makhani-style gravy.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+  {
+    "id": 271,
+    "name": "Dhall Fry",
+    "price": 180,
+    "description": "Tempered yellow dal cooked with mild spices.",
+    "category": "Chettinad Specials",
+    "subCategory": "Veg Curry",
+    "type": "veg"
+  },
+
+  {
+    "id": 272,
+    "name": "Butter Chicken Masala",
+    "price": 260,
+    "description": "Creamy and mildly spiced butter chicken curry.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 273,
+    "name": "Chicken Tikka Masala",
+    "price": 280,
+    "description": "Smoky chicken tikka chunks in spicy masala gravy.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 274,
+    "name": "Chicken Tadka Masala",
+    "price": 270,
+    "description": "Chicken curry with flavorful tadka and masala base.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 275,
+    "name": "Kadai Chicken",
+    "price": 240,
+    "description": "Chicken cooked in kadai style with capsicum and onion.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 276,
+    "name": "Hydrabadi Chicken",
+    "price": 250,
+    "description": "Traditional Hyderabadi-style chicken in green masala.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 277,
+    "name": "Punjabi Chicken",
+    "price": 250,
+    "description": "Punjabi-style chicken curry rich in flavor and spice.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 278,
+    "name": "Afgani Chicken",
+    "price": 300,
+    "description": "Mildly spiced creamy chicken curry with Afghan touch.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 279,
+    "name": "Mutton Rogan Josh",
+    "price": 360,
+    "description": "Kashmiri-style tender mutton curry with aromatic spices.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 280,
+    "name": "Mutton Punjabi",
+    "price": 350,
+    "description": "Mutton cooked Punjabi-style in spicy onion-tomato base.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 281,
+    "name": "Mugalai Mutton",
+    "price": 380,
+    "description": "Rich and creamy Mughlai-style mutton gravy.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 282,
+    "name": "Mugalai Chicken",
+    "price": 290,
+    "description": "Mughlai chicken curry with rich and nutty gravy.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 283,
+    "name": "Patiyala Chicken",
+    "price": 350,
+    "description": "Punjabi Patiala-style chicken cooked with spices.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+  {
+    "id": 284,
+    "name": "Kadai Prawn",
+    "price": 380,
+    "description": "Prawns cooked in kadai-style spicy onion-tomato gravy.",
+    "category": "Chettinad Specials",
+    "subCategory": "Non Veg Curry",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 285,
+    "name": "Fish Tikka Masala",
+    "price": 300,
+    "description": "Grilled fish tikka in a rich masala curry.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 286,
+    "name": "Prawn Punjabi",
+    "price": 300,
+    "description": "Prawns cooked in spicy Punjabi masala.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 287,
+    "name": "Prawn Tadka Masala",
+    "price": 310,
+    "description": "Tadka-style prawns with bold spices and curry.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 288,
+    "name": "Chettinad Chicken Curry",
+    "price": 260,
+    "description": "Authentic Chettinad-style chicken curry with rich spices.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 289,
+    "name": "Chettinad Prawn Curry",
+    "price": 320,
+    "description": "Spicy Chettinad-style prawn curry.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 290,
+    "name": "Mutton Masala",
+    "price": 350,
+    "description": "Rich and spicy mutton masala cooked in onion-tomato gravy.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 291,
+    "name": "Mutton Milagu Kari",
+    "price": 350,
+    "description": "Chettinad mutton curry flavored with black pepper.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 292,
+    "name": "Crab Masala",
+    "price": 320,
+    "description": "Crab cooked in traditional Chettinad spicy gravy.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 293,
+    "name": "Crab Pepper Masala",
+    "price": 330,
+    "description": "Crab cooked with pepper and spicy Chettinad masala.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 294,
+    "name": "Prawn Masala",
+    "price": 300,
+    "description": "Classic prawn masala with robust Chettinad flavors.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 295,
+    "name": "Prawn Pepper Masala",
+    "price": 310,
+    "description": "Spicy prawn curry flavored with black pepper.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+  {
+    "id": 296,
+    "name": "Fish Masala",
+    "price": 300,
+    "description": "Fish curry in traditional Chettinad onion-tomato masala.",
+    "category": "Chettinad Specials",
+    "subCategory": "Chettinad Gravy",
+    "type": "nonveg"
+  },
+
+  {
+    "id": 297,
+    "name": "Roti",
+    "price": 40,
+    "description": "Traditional tandoori whole wheat roti.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Tandoori",
+    "type": "veg"
+  },
+  {
+    "id": 298,
+    "name": "Butter Roti",
+    "price": 50,
+    "description": "Tandoori roti brushed with fresh butter.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Tandoori",
+    "type": "veg"
+  },
+  {
+    "id": 299,
+    "name": "Tandoori Paratha",
+    "price": 60,
+    "description": "Layered paratha cooked in tandoor.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Tandoori",
+    "type": "veg"
+  },
+  {
+    "id": 300,
+    "name": "Aloo Paratha",
+    "price": 100,
+    "description": "Tandoor-baked paratha stuffed with spiced potatoes.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Tandoori",
+    "type": "veg"
+  },
+  {
+    "id": 301,
+    "name": "Lacha Paratha",
+    "price": 60,
+    "description": "Flaky layered paratha made in tandoor.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Tandoori",
+    "type": "veg"
+  },
+  {
+    "id": 302,
+    "name": "Pudina Paratha",
+    "price": 70,
+    "description": "Tandoori paratha flavored with mint (pudina).",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Tandoori",
+    "type": "veg"
+  },
+  {
+    "id": 303,
+    "name": "Phulka (2Pcs)",
+    "price": 50,
+    "description": "Soft whole wheat phulka served as a pair.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Tandoori",
+    "type": "veg"
+  },
+  {
+    "id": 304,
+    "name": "Kulcha",
+    "price": 80,
+    "description": "Plain tandoori kulcha bread.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 305,
+    "name": "Aloo Kulcha",
+    "price": 100,
+    "description": "Tandoori kulcha stuffed with spiced mashed potatoes.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 306,
+    "name": "Naan",
+    "price": 50,
+    "description": "Classic soft leavened Indian tandoori bread.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 307,
+    "name": "Masala Kulcha",
+    "price": 130,
+    "description": "Kulcha filled with spicy masala stuffing.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 308,
+    "name": "Butter Naan",
+    "price": 60,
+    "description": "Soft naan brushed with butter.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 309,
+    "name": "Panneer Kulcha",
+    "price": 140,
+    "description": "Tandoori kulcha stuffed with seasoned paneer.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 310,
+    "name": "Garlic Naan",
+    "price": 70,
+    "description": "Soft naan topped with minced garlic and herbs.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 311,
+    "name": "Chicken Kulcha",
+    "price": 150,
+    "description": "Kulcha stuffed with spicy chicken filling.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "nonveg"  
+  },
+  {
+    "id": 312,
+    "name": "Cheese Naan",
+    "price": 90,
+    "description": "Soft naan filled with gooey cheese.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 313,
+    "name": "Chicken Stuffed Naan",
+    "price": 160,
+    "description": "Naan filled with spiced minced chicken.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "nonveg"
+  },
+  {
+    "id": 314,
+    "name": "Cheese Chilli Naan",
+    "price": 100,
+    "description": "Naan stuffed with cheese and green chillies.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 315,
+    "name": "Bread Basket",
+    "price": 399,
+    "description": "Assortment of house-special breads in a basket.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 316,
+    "name": "Cheese Garlic Naan",
+    "price": 120,
+    "description": "Naan topped with garlic and filled with melted cheese.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+  {
+    "id": 317,
+    "name": "Kashmiri Naan",
+    "price": 180,
+    "description": "Sweet naan stuffed with dry fruits and coconut.",
+    "category": "Tandoori Breads Specials",
+    "subCategory": "Naan's",
+    "type": "veg"
+  },
+
+  {
+    "id": 318,
+    "name": "Virgin Sangria",
+    "price": 150,
+    "description": "Refreshing blend of pineapple juice, orange juice, and red wine syrup.",
+    "category": "Juice Specials",
+    "subCategory": "Mocktail",
+    "type": "veg"
+  },
+  {
+    "id": 319,
+    "name": "Citrus Malt",
+    "price": 150,
+    "description": "Zesty orange juice mixed with malt syrup, lime juice, and soda.",
+    "category": "Juice Specials",
+    "subCategory": "Mocktail",
+    "type": "veg"
+  },
+  {
+    "id": 320,
+    "name": "Sign of Love",
+    "price": 150,
+    "description": "Watermelon juice with basil syrup, watermelon syrup, and lemon juice.",
+    "category": "Juice Specials",
+    "subCategory": "Mojito",
+    "type": "veg"
+  },
+  {
+    "id": 321,
+    "name": "Classic Mint Mojito",
+    "price": 150,
+    "description": "A classic mint and lemon mojito served chilled.",
+    "category": "Juice Specials",
+    "subCategory": "Mojito",
+    "type": "veg"
+  },
+  {
+    "id": 322,
+    "name": "Blueberry Mojito",
+    "price": 150,
+    "description": "Blueberry flavored mojito with mint and lime.",
+    "category": "Juice Specials",
+    "subCategory": "Mojito",
+    "type": "veg"
+  },
+  {
+    "id": 323,
+    "name": "Pina Colada",
+    "price": 150,
+    "description": "Pineapple juice, coconut syrup, and vanilla ice cream fusion.",
+    "category": "Juice Specials",
+    "subCategory": "Mocktail",
+    "type": "veg"
+  },
+  {
+    "id": 324,
+    "name": "Watermelon Juice",
+    "price": 150,
+    "description": "Freshly blended watermelon juice.",
+    "category": "Juice Specials",
+    "subCategory": "Juice",
+    "type": "veg"
+  },
+  {
+    "id": 325,
+    "name": "Pineapple Juice",
+    "price": 150,
+    "description": "Chilled pineapple juice with a sweet tropical taste.",
+    "category": "Juice Specials",
+    "subCategory": "Juice",
+    "type": "veg"
+  },
+  {
+    "id": 326,
+    "name": "Green Apple Sangria",
+    "price": 150,
+    "description": "Green apple with mojito syrup and Sprite.",
+    "category": "Juice Specials",
+    "subCategory": "Mocktail",
+    "type": "veg"
+  },
+  {
+    "id": 327,
+    "name": "Orange Juice",
+    "price": 150,
+    "description": "Freshly squeezed orange juice.",
+    "category": "Juice Specials",
+    "subCategory": "Juice",
+    "type": "veg"
+  },
+  {
+    "id": 328,
+    "name": "Green Apple Juice",
+    "price": 150,
+    "description": "Tangy green apple juice served cold.",
+    "category": "Juice Specials",
+    "subCategory": "Juice",
+    "type": "veg"
+  },
+  {
+    "id": 329,
+    "name": "Strawberry Daiquiri",
+    "price": 150,
+    "description": "Strawberry juice and strawberry syrup blend in a chilled daiquiri.",
+    "category": "Juice Specials",
+    "subCategory": "Mocktail",
+    "type": "veg"
+  },
+  {
+    "id": 330,
+    "name": "Grape Juice",
+    "price": 150,
+    "description": "Juicy and sweet grape juice served cold.",
+    "category": "Juice Specials",
+    "subCategory": "Juice",
+    "type": "veg"
+  },
+  {
+    "id": 331,
+    "name": "Kiwi Juice",
+    "price": 150,
+    "description": "Refreshing and tangy kiwi juice.",
+    "category": "Juice Specials",
+    "subCategory": "Juice",
+    "type": "veg"
+  },
+  {
+    "id": 332,
+    "name": "Peach Cooler",
+    "price": 150,
+    "description": "Peach syrup, strawberry syrup, Sprite, lemon, and mint cooler.",
+    "category": "Juice Specials",
+    "subCategory": "Mocktail",
+    "type": "veg"
+  },
+  {
+    "id": 333,
+    "name": "Lichee Juice",
+    "price": 150,
+    "description": "Sweet and aromatic lychee juice served chilled.",
+    "category": "Juice Specials",
+    "subCategory": "Juice",
+    "type": "veg"
+  },
+
+  {
+    "id": 334,
+    "name": "Chikoo Shake",
+    "price": 170,
+    "description": "Thick shake made with ripe sapota (chikoo) and milk.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 335,
+    "name": "Apple Shake",
+    "price": 160,
+    "description": "Creamy apple shake blended with milk and sweeteners.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 336,
+    "name": "Mango Shake",
+    "price": 150,
+    "description": "Rich mango pulp blended into a sweet milkshake.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 337,
+    "name": "Jack Fruit Shake",
+    "price": 160,
+    "description": "Sweet tropical jackfruit shake.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 338,
+    "name": "Pomo Shake",
+    "price": 160,
+    "description": "Pomegranate-based shake with a creamy twist.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 339,
+    "name": "Dry Fig Shake",
+    "price": 160,
+    "description": "Nutritious dry fig shake with a rich texture.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 340,
+    "name": "Kiwi Shake",
+    "price": 160,
+    "description": "Zesty and creamy kiwi fruit shake.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 341,
+    "name": "Strawberry Banana Shake",
+    "price": 170,
+    "description": "Strawberry and banana blended to a perfect creamy shake.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 342,
+    "name": "Butter Fruit Shake",
+    "price": 160,
+    "description": "Avocado (butter fruit) shake with a rich and smooth taste.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 343,
+    "name": "Dates Shake",
+    "price": 160,
+    "description": "Sweet dates blended into a wholesome shake.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 344,
+    "name": "Custard Apple Shake",
+    "price": 170,
+    "description": "Thick custard apple (sitaphal) milkshake.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 345,
+    "name": "Tender Coconut Shake (Zaira's Special)",
+    "price": 170,
+    "description": "Signature shake made from tender coconut pulp and milk.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Shake",
+    "type": "veg"
+  },
+  {
+    "id": 346,
+    "name": "Apple Juice",
+    "price": 120,
+    "description": "Fresh apple juice served chilled.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 347,
+    "name": "Orange Juice",
+    "price": 110,
+    "description": "Citrusy and refreshing orange juice.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 348,
+    "name": "Pineapple Juice",
+    "price": 110,
+    "description": "Tropical pineapple juice with a tangy twist.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 349,
+    "name": "Watermelon Juice",
+    "price": 110,
+    "description": "Cool and juicy watermelon drink.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 350,
+    "name": "Pomegranate Juice",
+    "price": 120,
+    "description": "Freshly extracted juice from pomegranate pearls.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 351,
+    "name": "Butter Fruit Juice",
+    "price": 150,
+    "description": "Avocado juice blended to creamy perfection.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 352,
+    "name": "Kiwi Juice",
+    "price": 150,
+    "description": "Tart and revitalizing kiwi juice.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 353,
+    "name": "Mosambi Juice",
+    "price": 100,
+    "description": "Sweet lime (mosambi) juice served fresh.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 354,
+    "name": "Dragon Fruit Juice",
+    "price": 150,
+    "description": "Exotic dragon fruit juice with vibrant color and taste.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 355,
+    "name": "Chikoo Juice",
+    "price": 150,
+    "description": "Sapota (chikoo) juice blended smoothly with a sweet touch.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 356,
+    "name": "Mango Juice",
+    "price": 150,
+    "description": "Delicious mango juice from fresh seasonal mangoes.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 357,
+    "name": "Strawberry Juice",
+    "price": 150,
+    "description": "Chilled strawberry juice with natural sweetness.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 358,
+    "name": "Custard Apple Juice",
+    "price": 150,
+    "description": "Rich custard apple juice served cold.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+  {
+    "id": 359,
+    "name": "Jack Fruit Juice",
+    "price": 150,
+    "description": "Fresh and tropical jackfruit juice.",
+    "category": "Juice Specials",
+    "subCategory": "Fruit Juice",
+    "type": "veg"
+  },
+
+  {
+    "id": 360,
+    "name": "Vanilla Shake",
+    "price": 150,
+    "description": "Classic vanilla ice cream shake, smooth and creamy.",
+    "category": "Shake Specials",
+    "subCategory": "Ice Cream Shake",
+    "type": "veg"
+  },
+  {
+    "id": 361,
+    "name": "Strawberry Shake",
+    "price": 150,
+    "description": "Refreshing shake made with strawberry ice cream.",
+    "category": "Shake Specials",
+    "subCategory": "Ice Cream Shake",
+    "type": "veg"
+  },
+  {
+    "id": 362,
+    "name": "Chocolate Shake",
+    "price": 150,
+    "description": "Rich chocolate ice cream blended into a perfect shake.",
+    "category": "Shake Specials",
+    "subCategory": "Ice Cream Shake",
+    "type": "veg"
+  },
+  {
+    "id": 363,
+    "name": "Mango Shake",
+    "price": 160,
+    "description": "Delicious mango shake made with mango ice cream.",
+    "category": "Shake Specials",
+    "subCategory": "Ice Cream Shake",
+    "type": "veg"
+  },
+  {
+    "id": 364,
+    "name": "Pista Shake",
+    "price": 160,
+    "description": "Creamy pistachio-flavored shake with a nutty finish.",
+    "category": "Shake Specials",
+    "subCategory": "Ice Cream Shake",
+    "type": "veg"
+  },
+  {
+    "id": 365,
+    "name": "Butterscotch Shake",
+    "price": 150,
+    "description": "Sweet and buttery butterscotch ice cream shake.",
+    "category": "Shake Specials",
+    "subCategory": "Ice Cream Shake",
+    "type": "veg"
+  },
+  {
+    "id": 366,
+    "name": "Blackcurrant Shake",
+    "price": 150,
+    "description": "Fruity and vibrant blackcurrant-flavored ice cream shake.",
+    "category": "Shake Specials",
+    "subCategory": "Ice Cream Shake",
+    "type": "veg"
+  },
+  {
+    "id": 367,
+    "name": "Gulfi Shake",
+    "price": 160,
+    "description": "Traditional kulfi-style shake with Indian spices and nuts.",
+    "category": "Shake Specials",
+    "subCategory": "Ice Cream Shake",
+    "type": "veg"
+  },
+  {
+    "id": 368,
+    "name": "Oreo Shake",
+    "price": 170,
+    "description": "Crushed Oreo cookies blended with vanilla ice cream.",
+    "category": "Shake Specials",
+    "subCategory": "Thick Shake",
+    "type": "veg"
+  },
+  {
+    "id": 369,
+    "name": "KitKat Shake",
+    "price": 170,
+    "description": "A thick and crunchy KitKat chocolate shake.",
+    "category": "Shake Specials",
+    "subCategory": "Thick Shake",
+    "type": "veg"
+  },
+  {
+    "id": 370,
+    "name": "Peanut Butter Shake",
+    "price": 170,
+    "description": "Creamy peanut butter blended into a thick and rich shake.",
+    "category": "Shake Specials",
+    "subCategory": "Thick Shake",
+    "type": "veg"
+  },
+  {
+    "id": 371,
+    "name": "Strawberry Bubble Gum Shake",
+    "price": 170,
+    "description": "Fun and sweet strawberry bubble gum flavored thick shake.",
+    "category": "Shake Specials",
+    "subCategory": "Thick Shake",
+    "type": "veg"
+  },
+  {
+    "id": 372,
+    "name": "Honeyball Shake",
+    "price": 170,
+    "description": "Honey-flavored thick shake with a unique twist.",
+    "category": "Shake Specials",
+    "subCategory": "Thick Shake",
+    "type": "veg"
+  },
+  {
+    "id": 373,
+    "name": "Walnut Brownie Shake",
+    "price": 170,
+    "description": "Decadent shake with chunks of walnut brownie.",
+    "category": "Shake Specials",
+    "subCategory": "Thick Shake",
+    "type": "veg"
+  },
+  {
+    "id": 374,
+    "name": "Hot Gulab Jamun",
+    "price": 90,
+    "description": "Warm and soft traditional Indian sweet dumplings in syrup.",
+    "category": "Dessert",
+    "subCategory": "Indian Dessert",
+    "type": "veg"
+  },
+  {
+    "id": 375,
+    "name": "Gulab Jamun with Ice Cream",
+    "price": 130,
+    "description": "Hot gulab jamuns served with a scoop of vanilla ice cream.",
+    "category": "Dessert",
+    "subCategory": "Indian Dessert",
+    "type": "veg"
+  },
+  {
+    "id": 376,
+    "name": "Hot Brownie",
+    "price": 150,
+    "description": "Warm chocolate brownie, rich and gooey in texture.",
+    "category": "Dessert",
+    "subCategory": "Western Dessert",
+    "type": "veg"
+  },
+  {
+    "id": 377,
+    "name": "Brownie with Ice Cream",
+    "price": 170,
+    "description": "Hot brownie topped with vanilla ice cream and chocolate syrup.",
+    "category": "Dessert",
+    "subCategory": "Western Dessert",
+    "type": "veg"
+  },
+  {
+    "id": 378,
+    "name": "Hot Carrot Halwa",
+    "price": 110,
+    "description": "Traditional Indian dessert made with grated carrots and ghee.",
+    "category": "Dessert",
+    "subCategory": "Indian Dessert",
+    "type": "veg"
+  },
+  {
+    "id": 379,
+    "name": "Carrot Halwa with Ice Cream",
+    "price": 140,
+    "description": "Gajar ka halwa served warm with vanilla ice cream.",
+    "category": "Dessert",
+    "subCategory": "Indian Dessert",
+    "type": "veg"
+  },
+  {
+    "id": 380,
+    "name": "Hot Kunafa",
+    "price": 300,
+    "description": "Middle Eastern dessert with shredded pastry and sweet filling.",
+    "category": "Dessert",
+    "subCategory": "International Dessert",
+    "type": "veg"
+  },
+  {
+    "id": 381,
+    "name": "Kunafa with Ice Cream",
+    "price": 350,
+    "description": "Warm kunafa served with a scoop of ice cream.",
+    "category": "Dessert",
+    "subCategory": "International Dessert",
+    "type": "veg"
+  },
+  {
+    "id": 382,
+    "name": "Fruit Salad",
+    "price": 120,
+    "description": "Seasonal fresh fruits diced and served chilled.",
+    "category": "Dessert",
+    "subCategory": "Fruit",
+    "type": "veg"
+  },
+  {
+    "id": 383,
+    "name": "Fruit Salad with Ice Cream",
+    "price": 150,
+    "description": "Fresh fruit salad served with vanilla ice cream.",
+    "category": "Dessert",
+    "subCategory": "Fruit",
+    "type": "veg"
+  },
+  {
+    "id": 384,
+    "name": "Mini Falooda",
+    "price": 150,
+    "description": "Smaller portion of traditional falooda with rose syrup, vermicelli, and ice cream.",
+    "category": "Dessert",
+    "subCategory": "Falooda",
+    "type": "veg"
+  },
+  {
+    "id": 385,
+    "name": "Royal Falooda",
+    "price": 210,
+    "description": "Deluxe falooda with rose syrup, nuts, basil seeds, vermicelli and ice cream.",
+    "category": "Dessert",
+    "subCategory": "Falooda",
+    "type": "veg"
+  },
+  {
+    "id": 386,
+    "name": "Zaira Special Falooda",
+    "price": 240,
+    "description": "Zaira's signature falooda with rich toppings and special mix.",
+    "category": "Dessert",
+    "subCategory": "Falooda",
+    "type": "veg"
+  }
+]
+
+

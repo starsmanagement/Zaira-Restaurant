@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checkout - Zaira Restaurant</title>
+    <link rel="stylesheet" href="order.css" />
+    
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="logo">
+        <a href="/order/order.html" class="logo">
+          <img src="/Images/logo.png" alt="" style="width: 55px" />
+          <div class="logoName">
+            <span class="logo-line1">Zaira</span> <br />
+            <span class="logo-line2">RESTAURANT</span>
+          </div>
+        </a>
+      </div>
+      <div class="header-Number">
+        <p><a href="tel: +91 9499905786">+91 9499905786</a></p>
+        <p><a href="tel: +91 9499906786">+91 9499906786</a></p>
+      </div>
+    </header>
+
+    <div class="checkout-container">
+      <!-- Customer Info Card -->
+      <div class="customer-info-section">
+        <h2>Customer Information</h2>
+        <form id="customerForm">
+          <input type="text" name="name" placeholder="Your Name" required />
+          <input
+            type=""
+            name="mobile"
+            pattern="[0-9]{10}"
+            maxlength="10"
+            inputmode="numeric"
+            placeholder="Enter 10-digit mobile number"
+            required
+          />
+          <input type="email" name="email" placeholder="Email" />
+          <textarea
+            name="notes"
+            placeholder="Additional Info (if any)"
+          ></textarea>
+        </form>
+      </div>
+
+      <!-- Order Summary Card (separate) -->
+      <div class="order-summary-card">
+        <div class="order-header">
+          <h2>Order Summary</h2>
+        </div>
+
+        <div id="dishList"></div>
+
+        <div class="price-lines">
+          <div><span>Subtotal</span><span id="subtotal">₹0.00</span></div>
+          <div><span>Service Fee</span><span>₹69.00</span></div>
+          <div><strong>Total</strong><strong id="total">₹0.00</strong></div>
+        </div>
+
+        <button id="proceedBtn" class="action-btn">Continue To Checkout</button>
+        <a href="order.html"><button  id="addMoreBtn" class="action-btn secondary">
+          Add More Items
+        </button></a>
+        
+      </div>
+
+      <!-- QR Code Modal Popup -->
+      <div id="qrPopup" class="qr-modal">
+        <div class="qr-content">
+          <span id="closeQR" class="qr-close">&times;</span>
+          <h3>Scan & Pay</h3>
+          <img src="/Images/qr-code.jpg" alt="QR Code" class="qr-img" />
+          <p class="qr-message"><strong>UPI ID : </strong> q489355793@ybl </p>
+          <p class="qr-message">
+            Please Send Screenshot to Confirm the Payment on WhatsApp no. : 
+            <strong><a href="https://wa.me/919499905786">+91 9499905786</a></strong>
+          </p>
+          <button id="confirmPaymentBtn" class="action-btn">
+            Confirm Payment
+          </button>
+        </div>
+      </div>
+    </div>
+
+    
+    <footer>
+      
+      <div class="copyright">
+        <p>&copy;2025 Zaira Restaurant. | All Rights Reserved.</p>
+      </div>
+    </footer>
+
+    <script src="checkout.js"></script>
+  </body>
+</html>

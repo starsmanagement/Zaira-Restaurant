@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Order - Zaira Restaurant</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+
+    <link rel="stylesheet" href="order.css">
+    
+  </head>
+
+  <body>
+    <!-- Navbar -->
+    <header class="navbar">
+      <div class="logo">
+        <a href="/index.html" class="logo">
+          <img src="/Images/logo.png" alt="" style="width: 55px" />
+          <div class="logoName">
+            <span class="logo-line1">Zaira</span> <br />
+            <span class="logo-line2">RESTAURANT</span>
+          </div>
+        </a>
+      </div>
+
+      <div class="cart-icon" id="cartToggle">
+        <i class="fas fa-shopping-cart"></i>
+        <span class="cart-badge" id="cart-count">0</span>
+      </div>
+    </header>
+
+    <br />
+    <!-- Cart Sidebar -->
+    <aside class="cart-sidebar" id="cartSidebar">
+      <div class="cart-header">
+        <h2>Your Order Summary</h2>
+        <button class="close-cart" id="closeCart">✖</button>
+      </div>
+      <div class="cart-body" id="cartItems">
+        <div class="empty-cart">
+          <h3>Empty Plate</h3>
+          <br />
+          <p>Plates look best with food on it. Go, grab ’em all</p>
+        </div>
+      </div>
+
+
+      <div class="add-more-container" id="addMoreItemsBtn">
+        ➕ Add More Items
+      </div>
+
+      <div class="cart-footer">
+        <div class="subtotal">
+          <span>Subtotal :</span>
+          <strong>Rs <span id="subtotal">0.00</span></strong>
+        </div>
+        <small>Extra charges may apply</small>
+        <button class="checkout-btn" id="checkoutBtn">Checkout</button>
+      </div>
+    </aside>
+
+    <div class="layout">
+      <aside class="sidebar">
+        <ul id="sidebar-links"></ul>
+      </aside>
+      
+
+      <main id="menu-container"></main>
+      <button id="mobileMenuBtn">☰ Menu</button>
+    </div>
+
+    <!-- Floating Cart Button -->
+    <button id="floatingCartBtn" class="floating-cart-btn" title="View Cart">
+      <i class="fas fa-shopping-cart"></i>
+      <span class="cart-badge" id="floatingCartCount">0</span>
+    </button>
+
+    <button id="backToTop" title="Go to top">
+      <svg width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+        <path d="M12 4l-8 8h5v8h6v-8h5z" />
+      </svg>
+    </button>
+    <footer>
+      <div class="footer">
+        <div class="visit_us">
+          <h2>VISIT US:</h2>
+          <br />
+          <p><strong>Tiruvallur</strong></p>
+          <br />
+          <p>
+            Zaira BBQ Restaurant No 3684 TNHB, Ma. Po. Si. Nagar,<br />
+            Tiruvallur, Kakkalur, Tamil Nadu 602003
+          </p>
+          <br />
+          <p><strong>Sriperumbadur</strong></p>
+          <br />
+          <p>
+            Zaira Multicuisine Restaurant No 2 N.G.O Colony <br />
+            Sriperumbadur, Kanchipuram District. 602105
+          </p>
+        </div>
+        
+        <div class="call">
+          <h2>Call Us Now</h2>
+          <br />
+          <p><strong>Tiruvallur</strong></p>
+          <br />
+          <p><a href="tel: +91 9499905786">+91 9499905786</a></p>
+          <br />
+          <p><strong>Sriperumbadur</strong></p>
+          <br />
+          <p><a href="tel: +91 9499906786">+91 9499906786</a></p>
+        </div>
+        <div class="social">
+          <h2>Let's Get Social</h2>
+          <a href="https://www.instagram.com/zaira_restaurant/" target="_blank"
+            ><img src="/Images/insta.png" alt=""
+          /></a>
+
+          <a href="https://www.instagram.com/zaira_restaurant/" target="_blank"
+            ><img src="/Images/facebook.png" alt=""
+          /></a>
+
+          <a href="https://wa.me/919499905786" target="_blank"
+            ><img src="/Images/whatsapp.png" alt="whatsapp"></a>
+
+        </div>
+      </div>
+      <div class="copyright">
+        <p>&copy;2025 Zaira Restaurant. | All Rights Reserved.</p>
+      </div>
+    </footer>
+
+    
+
+    <script src="order.js"></script>
+  </body>
+</html>
