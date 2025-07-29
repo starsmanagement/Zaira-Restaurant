@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Menus - Zaira Restaurant</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar" id="navbar">
+        <div class="logo">
+          <a href="index.html" class="logo">
+            <img
+              src="Images/logo.webp"
+              alt="Zaira Logo"
+              style="width: 55px"
+              loading="lazy"
+            />
+            <div class="logoName">
+              <span class="logo-line1">Zaira</span> <br />
+              <span class="logo-line2">RESTAURANT</span>
+            </div>
+          </a>
+        </div>
+        <div class="hamburger" id="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="menu.html">Menu</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+          <li><a href="order/order.html" target="_blank">Order</a></li>
+        </ul>
+      </nav>
+
+      <div class="homeSlide">
+        <img
+          src="/Images/heroImg2.webp"
+          alt="Restaurant Hero Banner"
+          class="slides"
+          loading="lazy"
+        />
+      </div>
+    </header>
+
+    <section>
+      <div class="menuIntro">
+        <h2>
+          <span>Taste The Best</span> <br />
+          Discover Our Menu
+        </h2>
+        <p>
+          <strong>At Zaira Restaurant, every dish tells a story.</strong><br />
+          From rich, aromatic curries<br />
+          to sizzling starters and handcrafted desserts,<br />
+          our menu is a celebration<br />
+          of authentic flavors and culinary passion.<br /><br />
+          Whether you're in the mood<br />
+          for comforting classics<br />
+          or craving something bold and exciting,<br />
+          <strong>Zaira offers a thoughtfully curated selection</strong><br />
+          that delights every palate.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <div id="menuSection">
+        <div id="categoryButtons">
+          <button class="btn-all" onclick="showAllMenuImages()">All</button>
+          <button class="btn-starters" onclick="showSubCategories('starters')">
+            Starters
+          </button>
+          <button class="btn-main" onclick="showSubCategories('main-course')">
+            Main Course
+          </button>
+          <button class="btn-rice" onclick="showSubCategories('rice-noodles')">
+            Rice & Noodles
+          </button>
+          <button
+            class="btn-beverages"
+            onclick="showSubCategories('beverages')"
+          >
+            Beverages
+          </button>
+          <button class="btn-desserts" onclick="showSubCategories('desserts')">
+            Desserts
+          </button>
+        </div>
+
+        <div id="subCategoryButtons"></div>
+        <div id="menuCards"></div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="footer">
+        <div class="visit_us">
+          <h2>VISIT US:</h2>
+          <p><strong>Tiruvallur</strong></p>
+          <p>
+            Zaira BBQ Restaurant No 3684 TNHB, Ma. Po. Si. Nagar,<br />
+            Tiruvallur, Kakkalur, Tamil Nadu 602003
+          </p>
+          <p><strong>Sriperumbadur</strong></p>
+          <p>
+            Zaira Multicuisine Restaurant No 2 N.G.O Colony <br />
+            Sriperumbadur, Kanchipuram District. 602105
+          </p>
+          <div class="call">
+            <h2>Email :</h2>
+            <p>
+              <a href="mailto: Zairarestaurant2025@gmail.com"
+                >Zairarestaurant2025@gmail.com</a
+              >
+            </p>
+          </div>
+        </div>
+
+        <div class="Business_hours">
+          <h2>BUSINESS HOURS</h2>
+          <ul>
+            <li>Mon: 11:00 AM – 11:00 PM</li>
+            <li>Tue: 11:00 AM – 11:00 PM</li>
+            <li>Wed: 11:00 AM – 11:00 PM</li>
+            <li>Thu: 11:00 AM – 11:00 PM</li>
+            <li>Fri: 11:00 AM – 11:00 PM</li>
+            <li>Sat: 11:00 AM – 11:00 PM</li>
+            <li>Sun: 11:00 AM – 11:00 PM</li>
+          </ul>
+        </div>
+
+        <div class="social">
+          <div class="call">
+            <h2>Call Us Now</h2>
+            <p><strong>Tiruvallur</strong></p>
+            <p><a href="tel:+919499905786">+91 9499905786</a></p>
+            <p><strong>Sriperumbadur</strong></p>
+            <p><a href="tel:+919499906786">+91 9499906786</a></p>
+          </div>
+
+          <br />
+          <h2>LET'S GET SOCIAL</h2>
+          <a href="https://www.instagram.com/zaira_restaurant/" target="_blank">
+            <img src="Images/insta.webp" alt="Instagram" loading="lazy" />
+          </a>
+          <a href="https://www.instagram.com/zaira_restaurant/" target="_blank">
+            <img src="Images/facebook.webp" alt="Facebook" loading="lazy" />
+          </a>
+          <a href="https://wa.me/919499905786" target="_blank">
+            <img src="Images/whatsapp.webp" alt="WhatsApp" loading="lazy" />
+          </a>
+        </div>
+      </div>
+      <div class="copyright">
+        <p>&copy;2025 Zaira Restaurant. | All Rights Reserved.</p>
+      </div>
+    </footer>
+
+    <button id="backToTop" title="Go to top">
+      <svg width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+        <path d="M12 4l-8 8h5v8h6v-8h5z" />
+      </svg>
+    </button>
+    <script src="script.js"></script>
+  </body>
+</html>
